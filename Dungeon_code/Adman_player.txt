@@ -1,0 +1,24 @@
+pl Adman
+100 100 240 343
+9 8
+10
+item Antique-Crown
+80 50 20
+item PlateArmor
+120 0 100
+item Gladius
+10 50 20
+item Goblin Blessing 
+5 10 8
+item Portrait
+80 10 20
+item LongSword
+30 50 50
+item Torch
+50 0 50
+item Whisper
+10 0 5
+item Portrait
+80 10 20
+item LongSword
+30 50 50

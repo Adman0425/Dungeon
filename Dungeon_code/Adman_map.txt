@@ -1,0 +1,138 @@
+16
+0
+15 -1 -1 2
+0
+0
+14 3 1 7
+0
+0
+2 -1 -1 4
+0
+0
+-1 -1 3 5
+2
+npc Blacksmith
+
+3
+item Claymore
+100 200 120
+item Harpe
+50 60 30
+item Paramerion
+50 90 70
+npc Nameless-Prince
+
+2
+item Portrait
+80 10 20
+item LongSword
+30 50 50
+0
+6 -1 4 10
+0
+0
+-1 5 7 -1
+1
+npc Death-Row-Inmate
+
+2
+item Torch
+50 0 50
+item Whisper
+10 0 5
+0
+8 -1 2 6
+0
+0
+-1 7 -1 9
+0
+0
+11 -1 8 -1
+0
+0
+-1 -1 5 -1
+1
+npc Death-Row-Inmate
+
+2
+item Torch
+50 0 50
+item Whisper
+10 0 5
+0
+-1 9 12 -1
+1
+npc Nameless-Prince
+
+2
+item Portrait
+80 10 20
+item LongSword
+30 50 50
+0
+-1 -1 13 11
+1
+npc Death-Row-Inmate
+
+2
+item Torch
+50 0 50
+item Whisper
+10 0 5
+0
+-1 14 -1 12
+2
+npc Nameless-Prince
+
+2
+item Portrait
+80 10 20
+item LongSword
+30 50 50
+npc Death-Row-Inmate
+
+2
+item Torch
+50 0 50
+item Whisper
+10 0 5
+0
+13 2 15 -1
+2
+npc Nameless-Prince
+
+2
+item Portrait
+80 10 20
+item LongSword
+30 50 50
+npc Death-Row-Inmate
+
+2
+item Torch
+50 0 50
+item Whisper
+10 0 5
+0
+16 1 -1 14
+0
+1
+-1 15 -1 -1
+3
+monster Phantom
+2000 2000
+300 500
+npc Nameless-Prince
+
+2
+item Portrait
+80 10 20
+item LongSword
+30 50 50
+npc Death-Row-Inmate
+
+2
+item Torch
+50 0 50
+item Whisper
+10 0 5
