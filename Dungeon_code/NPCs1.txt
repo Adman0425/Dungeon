@@ -1,0 +1,25 @@
+Lord
+領主
+2
+Antique-Crown 80 50 20
+PlateArmor 120 0 100
+Slayer
+殺人犯
+1
+Gladius 10 50 20
+Blacksmith
+鐵匠
+3
+Claymore 100 200 120
+Harpe 50 60 30
+Paramerion 50 90 70
+Nameless-Prince
+無名王儲
+2
+Portrait 80 10 20
+LongSword 30 50 50
+Death-Row-Inmate
+死囚犯
+2
+Torch 50 0 50
+Whisper 10 0 5

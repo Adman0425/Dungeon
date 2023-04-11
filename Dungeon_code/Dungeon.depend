@@ -1,0 +1,484 @@
+# depslib dependency file v1.0
+1589978454 source:c:\users\user\downloads\nycu_rpg-master\dungeon\gamecharacter.cpp
+	"GameCharacter.h"
+
+1589978454 c:\users\user\downloads\nycu_rpg-master\dungeon\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1589978454 c:\users\user\downloads\nycu_rpg-master\dungeon\object.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+
+1589978454 source:c:\users\user\downloads\nycu_rpg-master\dungeon\item.cpp
+	"Item.h"
+
+1589978454 c:\users\user\downloads\nycu_rpg-master\dungeon\item.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1589978454 c:\users\user\downloads\nycu_rpg-master\dungeon\player.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1589978454 c:\users\user\downloads\nycu_rpg-master\dungeon\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Monster.h"
+	"NPC.h"
+	"Item.h"
+
+1589978454 c:\users\user\downloads\nycu_rpg-master\dungeon\monster.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<unistd.h>
+	"Player.h"
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1617427005 c:\users\user\downloads\nycu_rpg-master\dungeon\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1617427058 source:c:\users\user\downloads\nycu_rpg-master\dungeon\main.cpp
+	<iostream>
+	"Dungeon.h"
+
+1589978454 c:\users\user\downloads\nycu_rpg-master\dungeon\dungeon.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<exception>
+	<unistd.h>
+	<algorithm>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+	"Object.h"
+
+1589978454 c:\users\user\downloads\nycu_rpg-master\dungeon\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+	"Room.h"
+
+1617427017 source:c:\users\user\downloads\nycu_rpg-master\dungeon\monster.cpp
+	"Monster.h"
+
+1589978454 source:c:\users\user\downloads\nycu_rpg-master\dungeon\object.cpp
+	"Object.h"
+
+1617427112 source:c:\users\user\downloads\nycu_rpg-master\dungeon\dungeon.cpp
+	"Dungeon.h"
+	"Player.h"
+	<iostream>
+	<cctype>
+	<ctime>
+
+1617427005 source:c:\users\user\downloads\nycu_rpg-master\dungeon\npc.cpp
+	"NPC.h"
+
+1617427005 source:c:\users\user\downloads\nycu_rpg-master\dungeon\player.cpp
+	"Player.h"
+	<iostream>
+
+1617427005 source:c:\users\user\downloads\nycu_rpg-master\dungeon\record.cpp
+	"Record.h"
+	<unistd.h>
+
+1617427005 source:c:\users\user\downloads\nycu_rpg-master\dungeon\room.cpp
+	"Room.h"
+
+1589978454 source:c:\users\user\downloads\dungeon\gamecharacter.cpp
+	"GameCharacter.h"
+
+1589978454 c:\users\user\downloads\dungeon\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1589978454 c:\users\user\downloads\dungeon\object.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+
+1589978454 source:c:\users\user\downloads\dungeon\item.cpp
+	"Item.h"
+
+1589978454 c:\users\user\downloads\dungeon\item.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1589978454 c:\users\user\downloads\dungeon\player.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1589978454 c:\users\user\downloads\dungeon\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Monster.h"
+	"NPC.h"
+	"Item.h"
+
+1589978454 c:\users\user\downloads\dungeon\monster.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<unistd.h>
+	"Player.h"
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1617427005 c:\users\user\downloads\dungeon\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1617427058 source:c:\users\user\downloads\dungeon\main.cpp
+	<iostream>
+	"Dungeon.h"
+
+1589978454 c:\users\user\downloads\dungeon\dungeon.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<exception>
+	<unistd.h>
+	<algorithm>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+	"Object.h"
+
+1589978454 c:\users\user\downloads\dungeon\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+	"Room.h"
+
+1617427535 source:c:\users\user\downloads\dungeon\monster.cpp
+	"Monster.h"
+
+1617427548 source:c:\users\user\downloads\dungeon\npc.cpp
+	"NPC.h"
+
+1589978454 source:c:\users\user\downloads\dungeon\object.cpp
+	"Object.h"
+
+1617427005 source:c:\users\user\downloads\dungeon\player.cpp
+	"Player.h"
+	<iostream>
+
+1617427005 source:c:\users\user\downloads\dungeon\record.cpp
+	"Record.h"
+	<unistd.h>
+
+1617427005 source:c:\users\user\downloads\dungeon\room.cpp
+	"Room.h"
+
+1619757998 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon.cpp
+	"Dungeon.h"
+	"Player.h"
+	<iostream>
+	<cctype>
+	<ctime>
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<exception>
+	<unistd.h>
+	<algorithm>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+	"Object.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\player.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1589978454 c:\users\user\desktop\college course\ds&oop\dungeon\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\object.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+
+1619435260 c:\users\user\desktop\college course\ds&oop\dungeon\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Monster.h"
+	"NPC.h"
+	"Item.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\monster.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<unistd.h>
+	"Player.h"
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\item.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+	"Room.h"
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\gamecharacter.cpp
+	"GameCharacter.h"
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\item.cpp
+	"Item.h"
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\monster.cpp
+	"Monster.h"
+
+1619434347 source:c:\users\user\desktop\college course\ds&oop\dungeon\npc.cpp
+	"NPC.h"
+
+1619434315 source:c:\users\user\desktop\college course\ds&oop\dungeon\object.cpp
+	"Object.h"
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\player.cpp
+	"Player.h"
+	<iostream>
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\record.cpp
+	"Record.h"
+	<unistd.h>
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\room.cpp
+	"Room.h"
+
+1619079846 source:c:\users\user\desktop\college course\ds&oop\dungeon\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	"Dungeon.h"
+
+1620116911 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\dungeon.cpp
+	"Dungeon.h"
+	"Player.h"
+	<iostream>
+	<cctype>
+	<ctime>
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\dungeon.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<exception>
+	<unistd.h>
+	<algorithm>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+	"Object.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\player.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1589978454 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\object.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+
+1619435260 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Monster.h"
+	"NPC.h"
+	"Item.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\monster.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<unistd.h>
+	"Player.h"
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\item.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1619433104 c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+	"Room.h"
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\gamecharacter.cpp
+	"GameCharacter.h"
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\item.cpp
+	"Item.h"
+
+1619079846 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	"Dungeon.h"
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\monster.cpp
+	"Monster.h"
+
+1619434347 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\npc.cpp
+	"NPC.h"
+
+1619434315 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\object.cpp
+	"Object.h"
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\player.cpp
+	"Player.h"
+	<iostream>
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\record.cpp
+	"Record.h"
+	<unistd.h>
+
+1619435731 source:c:\users\user\desktop\college course\ds&oop\dungeon\dungeon_109550030\room.cpp
+	"Room.h"
+
